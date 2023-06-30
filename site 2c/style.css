@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(76, 91, 177);
+}
+
+header {
+text-align: center;
+}
+
+.foto{
+    height: 200px;
+}
+
+.fotodaturma{
+    width: 400px;
+}
+
+.pessoal{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
